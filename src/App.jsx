@@ -8,15 +8,15 @@ const App = () => {
     <>
 <ToastContainer
 position="top-center"
-autoClose={3000}
-hideProgressBar={false}
+autoClose={2000}
+hideProgressBar={true}
 newestOnTop={false}
 closeOnClick
 rtl={false}
 pauseOnFocusLoss
 draggable
 pauseOnHover
-theme="light"
+theme="dark"
 />
     <div className='app'>
         <Weather/>

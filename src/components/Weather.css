@@ -2,7 +2,7 @@
     place-self: center;
     padding: 40px;
     border-radius: 10px;
-    background-image: linear-gradient(45deg, #2f4680, #500ae4);
+    /* background-image: linear-gradient(45deg, #2f4680, #500ae4); */
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -68,7 +68,7 @@
     .weather{
         padding: 10px;
         margin: 0;
-        width: 90%;
-        height: fit-content;
+        width: 100%;
+        height: auto;
     }
 }
