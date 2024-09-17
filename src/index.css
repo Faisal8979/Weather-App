@@ -10,7 +10,7 @@
   min-height: 100vh;
   display: grid;
   background-color: red;
-  animation: colors 2s infinite;
+  animation: colors 5s infinite;
 }
 
 @keyframes colors {
